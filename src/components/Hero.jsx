@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "../style";
-import { discount, robot } from "../assets";
+import { discount, girl } from "../assets";
 import GetStarted from "./GetStarted";
 
 const Hero = () => (
@@ -36,7 +36,7 @@ const Hero = () => (
     </div>
     <div className={`flez-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
       <img
-        src={robot}
+        src={girl}
         alt="billing"
         className="w=[100%] h-[100%] relative z-[5]"
       />
