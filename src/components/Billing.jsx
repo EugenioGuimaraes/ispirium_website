@@ -15,7 +15,7 @@ const Billing = () => (
         Lorem ipsum dolor sit amet <br className="sm:block hidden" /> consectetur adipiscing elit.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia
         dapibus ligula nec lobortis. Etiam id nulla volutpat, volutpat eros
         vulputate, ornare elit.
       </p>
